@@ -1,0 +1,24 @@
+package mentoring2;
+
+public class Son extends GrandMother {
+	String name;
+	String name2;
+	int num;
+	int num2;
+
+	public void car(){
+		System.out.println("green");
+}
+	public Son(String name,int num2, int num){
+		this.name=name;
+		this.num=num;
+		this.num2=num2;
+		System.out.println("constructor oneeeeee");
+	}
+	public Son(String name,int num2, String name2){
+		this.name2=name2;
+		this.num=num;
+		this.num2=num2;
+		System.out.println("constructor twoooo");
+}
+}

@@ -1,0 +1,10 @@
+package mentoring;
+
+public class Car {
+
+	
+	public void color(){
+		System.out.println("the color is red");
+	}
+	
+}

@@ -1,0 +1,11 @@
+package mentoring2;
+
+public class Human {
+
+	public static void main(String args[]){
+	Daughter kaya= new Daughter();
+	kaya.dress();
+	kaya.eyes();
+	kaya.hight();
+	}
+}

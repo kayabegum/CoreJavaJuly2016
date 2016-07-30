@@ -1,0 +1,47 @@
+package encapsulation;
+
+public class Collection {
+private int id;
+private String ssn;
+private String p;
+private String name;
+
+	
+	
+  public Collection(String name, int id, String ssn, String p) {
+		
+		this.name = name;
+		this.id = id;
+		this.ssn = ssn;
+		this.p = p;
+  }
+  public String getName() {
+	  return name;	
+}
+public void setName(String name) {
+	this.name = name;
+}
+public int getId() {
+	return id;
+}
+public void setId(int id) {
+	this.id = id;
+}
+public String getSsn() {
+	return ssn;
+}
+public void setSsn(String ssn) {
+	this.ssn = ssn;
+}
+public String getP() {
+	return p;
+}
+public void setP(String p) {
+	this.p = p;
+}
+
+  
+	
+	
+	
+}

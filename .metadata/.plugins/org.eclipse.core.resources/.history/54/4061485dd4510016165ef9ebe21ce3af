@@ -1,0 +1,16 @@
+package forloop;
+
+public class UseLoop {
+
+	public static void main(String args[]){
+		//    (start) (max) (increase by amount)
+		for (int i=20; i>=20;i=i+1){
+			System.out.println(i);
+			
+		
+			
+		}
+		}
+	}
+	
+

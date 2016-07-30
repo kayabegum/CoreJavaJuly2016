@@ -1,0 +1,6 @@
+package practice;
+
+class House{
+	
+
+}

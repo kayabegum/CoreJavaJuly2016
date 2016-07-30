@@ -1,0 +1,13 @@
+package bank;
+
+public interface Users {
+
+	public void name();
+	 
+	public void ssn();
+	
+	public void accountbalance();
+	
+	public void accountnumber();
+	
+}

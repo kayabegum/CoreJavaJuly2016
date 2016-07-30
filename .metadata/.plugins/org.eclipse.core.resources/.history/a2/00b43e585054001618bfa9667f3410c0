@@ -1,0 +1,9 @@
+package mentoring2;
+
+public class Son extends GrandMother {
+
+	public void car(){
+		System.out.println("green");
+}
+	
+}

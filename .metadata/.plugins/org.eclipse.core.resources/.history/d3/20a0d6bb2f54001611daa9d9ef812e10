@@ -1,0 +1,14 @@
+package project5;
+
+public class Creation {
+
+	public static void main(String[] args) {
+		daughter girl= new daughter();
+		girl.clothing();
+		girl.eye();
+		girl.hair();
+		girl.shoes();
+
+	}
+
+}

@@ -1,0 +1,21 @@
+package encapsulation;
+
+public class employees {
+	
+	
+	
+public static void main(String[] args) {
+	Collection employee1= new Collection("nahreen",55,"551326","tester" );
+	Collection employee2= new Collection("joe",54565,"djasdi","tedsakhdaiwuster" );
+	
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+}

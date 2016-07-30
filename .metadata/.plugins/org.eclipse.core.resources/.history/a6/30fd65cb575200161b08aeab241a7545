@@ -1,0 +1,19 @@
+package practice;
+
+public class Response {
+
+	public static void main(String args[]){
+		int number =10;
+		boolean argument=false;
+		while(number<2){
+		System.out.println(number);
+		number++;
+		argument=true;
+		
+		if (!argument){
+		System.out.println("fix argument");
+		}
+		}
+		}
+	}
+

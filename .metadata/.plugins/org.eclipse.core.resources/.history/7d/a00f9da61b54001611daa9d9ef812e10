@@ -1,0 +1,11 @@
+package wed2;
+
+public class main {
+	
+	public static void main(String args[]){
+		 Concrete math= new Concrete();
+		 int num=7;
+		 int g=9;
+		 System.out.println(num+g);
+}
+}

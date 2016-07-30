@@ -1,0 +1,23 @@
+package forloop;
+
+public class WhileLoop {
+
+	public static void main(String[] args) {
+
+		
+			
+	    int num=6;
+
+		boolean state = true;
+		while(num<5){
+	    	state =  true;
+		System.out.println("conidtion is true");
+		num++;
+	    
+	    //if is state is false
+	    if(!state){
+	    	System.out.println("loop Condition did not met");
+	    }
+
+	}
+	}

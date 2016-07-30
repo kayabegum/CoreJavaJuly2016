@@ -1,0 +1,12 @@
+package oop;
+
+public interface dress {
+ 
+	public void dresssize();
+	
+	public void dresscolor();
+	
+	 public void dresslength();
+	 
+	
+}

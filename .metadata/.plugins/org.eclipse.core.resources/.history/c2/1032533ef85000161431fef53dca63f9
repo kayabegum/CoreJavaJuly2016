@@ -1,0 +1,44 @@
+package encapsulation;
+
+public class Employees {
+
+
+	private String name;
+	private int ID;
+	private String position;
+	private int age;
+	
+	public Employees(String name, int iD, String position, int age) {
+		this.name=name;
+	}
+
+	public String getName() {
+		return Name;
+	}
+	public void setName(String name) {
+		Name = name;
+	}
+	public int getID() {
+		return ID;
+	}
+	public void setID(int iD) {
+		ID = iD;
+	}
+	public String getPosition() {
+		return position;
+	}
+	public void setPosition(String position) {
+		this.position = position;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	
+		
+	
+	
+	
+}

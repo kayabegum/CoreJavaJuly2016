@@ -1,0 +1,21 @@
+package project5;
+
+public class daughter extends Mother {
+	public int num;
+	public int num2;
+	public String a;
+	public daughter(){}
+	public daughter(int num,int num2){ 
+		this.num=num;
+		this.num2=num;
+		this.a=a;
+		System.out.println("constructor oneeeee");
+	}
+	public daughter(int num,int num2,String a){ 
+		this.num=num;
+		this.num2=num;
+		this.a=a;
+		System.out.println("constructor twoooooo");
+		
+	}
+}

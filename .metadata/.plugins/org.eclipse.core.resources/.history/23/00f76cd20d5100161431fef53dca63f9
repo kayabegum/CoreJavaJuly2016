@@ -1,0 +1,8 @@
+package sat2;
+
+public class Mother extends Grandmother {
+
+	
+	
+	
+}

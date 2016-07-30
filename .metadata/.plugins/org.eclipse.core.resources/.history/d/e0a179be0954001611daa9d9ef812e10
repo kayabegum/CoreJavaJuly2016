@@ -1,0 +1,11 @@
+package wed2;
+
+public class Final {
+
+	public static void main(String args[]){
+		Concrete ob= new Concrete();
+		ob.age();
+	}
+	
+	
+}

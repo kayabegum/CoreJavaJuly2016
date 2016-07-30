@@ -1,0 +1,19 @@
+package forloop;
+import java.util.Scanner;
+public class scann {
+
+	
+	public static void main(String args[]){
+		Scanner user= new Scanner(System.in);
+		String userid, pass;
+       System.out.println("enter user ID");
+       userid=user.nextLine();
+       System.out.println("enter user password");
+       pass=user.nextLine();
+       
+        if(user.equals("kaya")&&(pass.equals("mysha123"))){
+        System.out.println("wellcome to chaseonline");}
+        else{System.out.println("access denied, please enter corrected userid and password");
+	}
+}
+}

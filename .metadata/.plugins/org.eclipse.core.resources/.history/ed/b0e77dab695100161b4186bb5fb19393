@@ -1,0 +1,11 @@
+package sat2;
+
+public class Family {
+
+	
+	public static void main(String[] args){
+		
+	}
+	
+	
+}

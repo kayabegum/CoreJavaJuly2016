@@ -1,0 +1,30 @@
+package wed2;
+
+import java.util.Scanner;
+
+public class Final {
+
+	public static void main(String args[]){
+		Scanner scan= new Scanner(System.in);
+	     System.out.println("pic a color: blue , green,red");
+		 String reply=scan.next();
+	
+		 switch (reply){
+			 case "blue":
+				 System.out.println("you picked blue");
+				 break;
+			 case "green":
+				 System.out.println("you picked green");
+				 break;
+				 
+			 case "red":
+				 System.out.println("red was the color");
+				 break;
+				 default:System.out.println("you stupid");
+		 }
+		 Concrete math= new Concrete(5);
+		math.age();
+	}
+	
+	
+}

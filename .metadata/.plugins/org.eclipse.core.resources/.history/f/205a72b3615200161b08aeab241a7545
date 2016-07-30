@@ -1,0 +1,12 @@
+package bank;
+
+public class AccountBalance extends AccountInfo  implements  Users{
+
+
+
+		
+	}
+
+	
+	
+

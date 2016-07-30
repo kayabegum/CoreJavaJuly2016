@@ -1,0 +1,39 @@
+package bank;
+
+public class AccountBalance implements  Users{
+
+
+	
+	public void deposit() {
+		System.out.println("total: ");
+		
+	}
+
+
+
+	public void ssn() {
+	System.out.println("ssn:" );
+		
+	}
+
+
+	public void accountbalance() {
+		System.out.println("your account balance is");
+		
+	}
+
+
+
+	public void accountnumber() {
+		System.out.println("enter account number ");
+		
+	}
+
+
+
+
+
+
+		
+	
+}

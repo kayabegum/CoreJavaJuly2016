@@ -1,0 +1,10 @@
+package sat2;
+
+public class Mother extends Grandmother {
+
+	
+	public void hight(){
+	    System.out.println("5.4 feet");
+	}
+	
+}

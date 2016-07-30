@@ -1,0 +1,12 @@
+package mentoring2;
+
+public class GrandMother {
+ 
+	public void hair(){
+		System.out.println("brown");
+	
+	}
+	public void tall(){
+		System.out.println("6");
+	}
+}

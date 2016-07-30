@@ -1,0 +1,12 @@
+package sat2;
+
+public class Mother extends Grandmother {
+
+	
+	public int hight(int hight){
+		return hight;
+	}
+
+	
+	
+}

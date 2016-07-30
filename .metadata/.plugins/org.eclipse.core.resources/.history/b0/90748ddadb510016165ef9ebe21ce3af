@@ -1,0 +1,25 @@
+package forloop;
+
+public class WhileLoop {
+
+	public static void main(String[] args) {
+
+		try{
+			
+	    int num=10;
+
+		boolean state = false;
+	    while(num<5){
+	    	state =  true;
+		System.out.println(num);
+		num++;
+	    }
+	    if(!state){
+	    	System.out.println("loop Condition did not met");
+	    }
+
+		}catch(Exception ex){
+			ex.printStackTrace();
+		}
+    }
+}

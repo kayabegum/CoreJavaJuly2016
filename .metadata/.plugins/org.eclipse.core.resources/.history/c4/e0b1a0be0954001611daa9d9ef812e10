@@ -1,0 +1,13 @@
+package wed2;
+
+public class Concrete extends NewBank{
+
+
+	public void age() {
+	System.out.println("i am 21");
+	}
+	public void name(){
+		System.out.println("cutomer name");
+	
+	}
+}

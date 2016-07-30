@@ -1,0 +1,22 @@
+package encapsulation;
+
+public class employees {
+	
+	
+	
+public static void main(String[] args) {
+	Collection employee1= new Collection("nahreen",55,"551326","tester" );
+  System.out.println(employee1.getId()+ employee1.getName()+employee1.getP()+employee1.getSsn());
+	
+	
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+
